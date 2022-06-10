@@ -2,14 +2,22 @@
 
 # Université Paris Cité 
 
-### GAMMs
+### Praat secipts
 
-This is an R notebook about the model GAMMs on the acoustic analysis of the diphthongs in the standard Mandarin.
+Here are Praat scripts which can do the  extractions of the diphthongs and their acoustic data.
 
-See [GAMMs notebook](https://chenyuliudp.github.io/R_notebook/book1.html).
+See
 
-[GAMMs /ai/](https://chenyuliudp.github.io/R_notebook/ai.html).
+**Étape 1** 
 
-### Vowel plots
+[Script étape 1](https://chenyuliudp.github.io/R_notebook/etape1a.praat).
 
-See [ai plot](https://chenyuliudp.github.io/R_notebook/ai_plot.html).
+**Étape 2** 
+
+[Script étape 2 /ai/](https://chenyuliudp.github.io/R_notebook/etape2ai.praat).
+
+[Script étape 2 /au/](https://chenyuliudp.github.io/R_notebook/etape2au.praat).
+
+[Script étape 2 /ei/](https://chenyuliudp.github.io/R_notebook/etape2ei.praat).
+
+[Script étape 2 /ou/](https://chenyuliudp.github.io/R_notebook/etape2ou.praat).
