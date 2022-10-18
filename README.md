@@ -31,3 +31,5 @@ Al-Tamimi, J. and Khattab, G., (2018). Acoustic correlates of the voicing contra
 [Script étape 2 /ei/](https://chenyuliudp.github.io/R_notebook/etape2ei.praat).
 
 [Script étape 2 /ou/](https://chenyuliudp.github.io/R_notebook/etape2ou.praat).
+
+https://chenyuliudp.github.io/R_notebook/releases/download/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html
