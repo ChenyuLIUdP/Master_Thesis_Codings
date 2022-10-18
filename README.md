@@ -40,6 +40,5 @@ After the data processing by praat, we made a multi-dimensional modelling with G
 
 
 
-[R notebook](https://github.com/ChenyuLIUdP/Master_Thesis_Codings/releases/download/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html)
+[R notebook](https://github.com/ChenyuLIUdP/Master_Thesis_Codings/releases/download/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html).
 
-[test](https://chenyuliudp.github.io/Master_Thesis_Codings/releases/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html)
