@@ -38,6 +38,8 @@ Al-Tamimi, J. and Khattab, G., (2018). Acoustic correlates of the voicing contra
 
 After the data processing by praat, we made a multi-dimensional modelling with GAMMs *(Generalised Additive Mixed Models)*.
 
-[test](https://chenyuliudp.github.io/Master_Thesis_Codings/book1.html)
+
 
 [R notebook](https://github.com/ChenyuLIUdP/Master_Thesis_Codings/releases/download/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html)
+
+[test](https://chenyuliudp.github.io/Master_Thesis_Codings/releases/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html)
