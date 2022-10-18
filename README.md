@@ -2,7 +2,9 @@
 
 # Université Paris Cité 
 
-## Praat scripts
+## Codings in the Master thesis
+
+### Praat scripts
 
 Here are Praat scripts which can do the  extractions of the diphthongs and their acoustic data.
 
@@ -32,7 +34,7 @@ Al-Tamimi, J. and Khattab, G., (2018). Acoustic correlates of the voicing contra
 
 [Script étape 2 /ou/](https://chenyuliudp.github.io/R_notebook/etape2ou.praat).
 
-## Modelling with GAMMs
+### Modelling with GAMMs
 
 After the data processing by praat, we made a multi-dimensional modelling with GAMMs *(Generalised Additive Mixed Models)*.
 
