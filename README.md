@@ -1,4 +1,3 @@
-# Chenyu LI
 
 # PhD student, Laboratoire de Linguistique Formelle, Université Paris Cité 
 
