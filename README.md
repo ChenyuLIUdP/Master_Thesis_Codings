@@ -12,7 +12,7 @@ Download
 
 **Étape 1** 
 
-[Script étape 1](https://chenyuliudp.github.io/Master_Thesis_Codings/etape1a.praat).
+[Script étape 1](https://chenyuliudp.github.io/Scripts/etape1a.praat).
 
 **Étape 2** 
 
@@ -26,13 +26,13 @@ Al-Tamimi J. (2017). "Revisiting acoustic correlates of pharyngealization in Jor
 
 Al-Tamimi, J. and Khattab, G., (2018). Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate stops. Invited manuscript for the special issue of Journal of Phonetics, "Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World’s Languages" (eds., T. Cho, G. Docherty & D. Whalen)." Vol: 71, pp. 306-325. https://doi.org/10.1016/j.wocn.2018.09.010
 
-[Script étape 2 /ai/](https://chenyuliudp.github.io/Master_Thesis_Codings/etape2ai.praat).
+[Script étape 2 /ai/](https://chenyuliudp.github.io/Scripts/etape2ai.praat).
 
-[Script étape 2 /au/](https://chenyuliudp.github.io/Master_Thesis_Codings/etape2au.praat).
+[Script étape 2 /au/](https://chenyuliudp.github.io/Scripts/etape2au.praat).
 
-[Script étape 2 /ei/](https://chenyuliudp.github.io/Master_Thesis_Codings/etape2ei.praat).
+[Script étape 2 /ei/](https://chenyuliudp.github.io/Scripts/etape2ei.praat).
 
-[Script étape 2 /ou/](https://chenyuliudp.github.io/Master_Thesis_Codings/etape2ou.praat).
+[Script étape 2 /ou/](https://chenyuliudp.github.io/Scripts/etape2ou.praat).
 
 ### Modelling with GAMMs
 
@@ -40,5 +40,5 @@ After the data processing by praat, we made a multi-dimensional modelling with G
 
 
 
-[R notebook](https://github.com/ChenyuLIUdP/Master_Thesis_Codings/releases/download/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html).
+[R notebook](https://github.com/ChenyuLIUdP/Scripts/releases/download/Rnotebook/Models_GAMMs_Master_Thesis_CLi.html).
 
