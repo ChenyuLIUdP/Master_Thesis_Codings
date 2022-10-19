@@ -1,6 +1,6 @@
 # Chenyu LI
 
-# Université Paris Cité 
+# PhD student, Laboratoire de Linguistique Formelle, Université Paris Cité 
 
 ## Codings in the Master thesis
 
